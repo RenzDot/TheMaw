@@ -439,7 +439,7 @@ module.exports = content.locals || {};
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\dev\TheMaw_Angular\maw\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! C:\dev\TheMaw_Angular\themaw\src\styles.css */"./src/styles.css");
 
 
 /***/ })
